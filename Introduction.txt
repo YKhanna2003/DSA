@@ -1,1 +1,4 @@
-Hello, I am Yash Khanna
+Hey there, 
+
+I am Yash Khanna, studying in BITS Pilani, KK Birla Goa Campus.
+This repository will be used to track my progress through DSA.
